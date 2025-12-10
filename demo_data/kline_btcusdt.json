@@ -1,0 +1,39 @@
+{
+  "symbol": "BTCUSDT",
+  "source": "synthetic-demo",
+  "overlays": [
+    {
+      "type": "support",
+      "price": 62800,
+      "confidence": 0.62
+    },
+    {
+      "type": "resistance",
+      "price": 66800,
+      "confidence": 0.57
+    }
+  ],
+  "candles": [
+    {
+      "time": "2026-06-01T15:00:00+08:00",
+      "open": 64000,
+      "high": 64820,
+      "low": 63620,
+      "close": 64250
+    },
+    {
+      "time": "2026-06-01T16:00:00+08:00",
+      "open": 64250,
+      "high": 65040,
+      "low": 63980,
+      "close": 64710
+    },
+    {
+      "time": "2026-06-01T17:00:00+08:00",
+      "open": 64710,
+      "high": 65320,
+      "low": 64330,
+      "close": 64920
+    }
+  ]
+}
