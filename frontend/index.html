@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>ONX Research Workbench Demo</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <header class="topbar">
+        <div>
+          <h1>ONX Research Workbench Demo</h1>
+          <p>Sanitized read-only view · synthetic data · public boundary</p>
+        </div>
+        <span class="badge">demo-only</span>
+      </header>
+      <section class="grid">
+        <article class="panel">
+          <h2>Candidates</h2>
+          <div id="candidates" class="table"></div>
+        </article>
+        <article class="panel">
+          <h2>Risk Boundary</h2>
+          <p class="muted">No order placement, account mutation, or private cache access exists in this demo.</p>
+          <div id="summary" class="summary"></div>
+        </article>
+      </section>
+    </main>
+    <script src="./app.js"></script>
+  </body>
+</html>
