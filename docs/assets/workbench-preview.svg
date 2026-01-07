@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="420" viewBox="0 0 960 420" role="img" aria-labelledby="title desc">
+  <title id="title">ONX Research Workbench demo preview</title>
+  <desc id="desc">A sanitized read-only workbench preview.</desc>
+  <rect width="960" height="420" fill="#f7f8fb"/>
+  <rect x="36" y="34" width="888" height="352" rx="8" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="64" y="78" fill="#111827" font-family="Segoe UI, Arial" font-size="28" font-weight="700">ONX Research Workbench Demo</text>
+  <text x="64" y="110" fill="#64748b" font-family="Segoe UI, Arial" font-size="15">Read-only research view · synthetic fixtures · public boundary</text>
+  <rect x="64" y="146" width="520" height="198" rx="8" fill="#f8fafc" stroke="#d7dde8"/>
+  <rect x="612" y="146" width="284" height="198" rx="8" fill="#f8fafc" stroke="#d7dde8"/>
+  <text x="88" y="184" fill="#111827" font-family="Segoe UI, Arial" font-size="18" font-weight="700">Candidates</text>
+  <g font-family="Segoe UI, Arial" font-size="15">
+    <text x="88" y="226" fill="#111827">SOLUSDT</text>
+    <text x="280" y="226" fill="#0f766e" font-weight="700">72.8</text>
+    <text x="400" y="226" fill="#64748b">demo-only</text>
+    <line x1="88" y1="248" x2="548" y2="248" stroke="#e5e7eb"/>
+    <text x="88" y="280" fill="#111827">BTCUSDT</text>
+    <text x="280" y="280" fill="#2563eb" font-weight="700">69.1</text>
+    <text x="400" y="280" fill="#64748b">watchlist</text>
+  </g>
+  <text x="640" y="184" fill="#111827" font-family="Segoe UI, Arial" font-size="18" font-weight="700">Risk Boundary</text>
+  <text x="640" y="226" fill="#475569" font-family="Segoe UI, Arial" font-size="15">No order placement</text>
+  <text x="640" y="258" fill="#475569" font-family="Segoe UI, Arial" font-size="15">No account mutation</text>
+  <text x="640" y="290" fill="#475569" font-family="Segoe UI, Arial" font-size="15">Synthetic API fixtures</text>
+</svg>
