@@ -1,0 +1,16 @@
+{
+  "date": "2026-01-21",
+  "topic": "risk-panel",
+  "source": "synthetic-demo",
+  "panel_state": "readonly",
+  "rows": [
+    {
+      "symbol": "BTCUSDT",
+      "score": 68.5
+    },
+    {
+      "symbol": "ETHUSDT",
+      "score": 62.0
+    }
+  ]
+}
