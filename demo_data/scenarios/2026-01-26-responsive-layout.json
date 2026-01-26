@@ -1,0 +1,16 @@
+{
+  "date": "2026-01-26",
+  "topic": "responsive-layout",
+  "source": "synthetic-demo",
+  "panel_state": "readonly",
+  "rows": [
+    {
+      "symbol": "BTCUSDT",
+      "score": 61.7
+    },
+    {
+      "symbol": "ETHUSDT",
+      "score": 59.2
+    }
+  ]
+}
