@@ -1,0 +1,7 @@
+{
+  "case_id": "workbench-0020",
+  "date": "2026-02-27",
+  "topic": "api-boundary",
+  "requires_credentials": false,
+  "allows_mutation": false
+}
