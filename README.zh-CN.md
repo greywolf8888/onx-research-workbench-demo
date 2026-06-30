@@ -16,6 +16,25 @@
 
 ![工作台预览](docs/assets/workbench-preview.svg)
 
+## 示例输出图
+
+我把私有 `codex` 分支中的两张脱敏示例输出图搬到这个 demo 中，让访问者可以直观看到
+工作台要组织的图表解释能力。
+
+### BTCUSDT 多周期结构图
+
+![BTC 多周期结构图](docs/assets/example-outputs/btc-multi-timeframe-structure.png)
+
+我用这张图展示 BTCUSDT 在周线、日线、12H、4H、1H 多周期下的结构判读。
+
+### WLDUSDT 短线 FIB 通道计划图
+
+![WLD 短线 FIB 通道计划图](docs/assets/example-outputs/wld-shortline-fib-channel-plan.png)
+
+我用这张图展示短线涨幅榜候选的主力支撑/压力、FIB 通道和只读交易计划摘要。
+
+详细解释见 [示例输出说明](docs/example-output-notes.md)。
+
 ## 我想展示什么
 
 我用这个 demo 展示自己如何把研究型后端流程产品化成可阅读、可复核、只读优先的全栈界面。

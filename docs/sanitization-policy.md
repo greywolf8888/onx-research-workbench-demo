@@ -8,6 +8,7 @@ a copy of my private workbench.
 - Read-only product shell.
 - Minimal Python JSON service.
 - Synthetic candidate and K-line fixtures.
+- Two sanitized chart-output images from the private `codex` branch.
 - API contract documentation.
 - Tests, CI, release notes, and public workflow history.
 
@@ -17,6 +18,7 @@ a copy of my private workbench.
 - Exchange credentials and local environment files.
 - Account snapshots, balances, fills, order logs, and position history.
 - Private cache paths and generated reports.
+- Runtime files that expose account context or local machine paths.
 - Any route that could place orders, cancel orders, edit leverage, or mutate state.
 - Internal assets that are not intended for public review.
 

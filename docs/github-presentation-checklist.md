@@ -12,6 +12,7 @@ visitor sees first.
 | Security | `SECURITY.md` explains the read-only and synthetic-data boundary. |
 | Release | `v0.1.0-demo` release notes explain what I published and what I removed. |
 | Social preview | `docs/assets/social-preview.png` is prepared at 1280x640 for repository preview artwork. |
+| Example outputs | `docs/assets/example-outputs/` contains two sanitized chart outputs from my private `codex` branch. |
 | CI | `.github/workflows/ci.yml` runs contract tests. |
 
 ## Notes

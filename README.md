@@ -19,6 +19,28 @@ modify leverage, mutate account state, or read private production caches.
 
 ![Workbench preview](docs/assets/workbench-preview.svg)
 
+## Example Outputs
+
+I moved two sanitized example outputs from my private `codex` branch into this
+demo so reviewers can see the kind of chart interpretation the workbench is
+designed to organize.
+
+### BTCUSDT Multi-Timeframe Structure
+
+![BTC multi-timeframe structure](docs/assets/example-outputs/btc-multi-timeframe-structure.png)
+
+I use this output to show multi-timeframe BTCUSDT structure review across weekly,
+daily, 12H, 4H, and 1H contexts.
+
+### WLDUSDT Shortline FIB Channel Plan
+
+![WLD shortline FIB channel plan](docs/assets/example-outputs/wld-shortline-fib-channel-plan.png)
+
+I use this output to show shortline gainer review with main-force
+support/resistance zones, FIB channel levels, and a read-only trade-plan summary.
+
+Read the full explanation in [Example output notes](docs/example-output-notes.md).
+
 ## What I Am Demonstrating
 
 I use this demo to show how I turn a research-heavy backend workflow into a

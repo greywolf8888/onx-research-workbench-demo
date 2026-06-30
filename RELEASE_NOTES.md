@@ -1,5 +1,30 @@
 # Release Notes
 
+## v0.1.2-demo
+
+I published this patch release to add the two chart-output examples from my
+private `codex` branch into the public workbench demo with safer, clearer
+explanations.
+
+### Highlights
+
+- Added the BTCUSDT multi-timeframe structure output image.
+- Added the WLDUSDT shortline FIB-channel plan output image.
+- Added `docs/example-output-notes.md` with visual interpretation, engineering
+  value, and public-boundary notes.
+- Added an example-output gallery to the English and Chinese README files.
+
+### Public Boundary
+
+I use these images as sanitized visual examples only. They do not include account
+data, credentials, balances, fills, order history, private runtime paths, or live
+execution controls.
+
+### 中文摘要
+
+`v0.1.2-demo` 增加了两张来自私有 `codex` 分支的脱敏示例输出图，并补充说明：
+BTCUSDT 多周期结构判读、WLDUSDT 短线 FIB 通道计划、工程价值和公开边界。
+
 ## v0.1.1-demo
 
 I published this patch release to turn the workbench demo from a simple public

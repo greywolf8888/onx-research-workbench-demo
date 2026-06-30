@@ -1,5 +1,16 @@
 # Changelog
 
+## v0.1.2-demo
+
+### Added
+
+- Two sanitized example output images from the private `codex` branch.
+- `docs/example-output-notes.md` with visual interpretation and public-boundary notes.
+
+### Changed
+
+- Added an example-output gallery to the English and Chinese README files.
+
 ## v0.1.1-demo
 
 ### Added
