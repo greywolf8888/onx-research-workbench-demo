@@ -59,11 +59,11 @@ readable product surface.
 
 ```mermaid
 flowchart LR
-  A[Static frontend shell] --> B[/api/candidates]
-  A --> C[/api/kline/:symbol]
-  B --> D[demo_data/candidates.json]
-  C --> E[demo_data/kline_btcusdt.json]
-  D --> F[Read-only research view]
+  A["Static frontend shell"] --> B["GET /api/candidates"]
+  A --> C["GET /api/kline/:symbol"]
+  B --> D["demo_data/candidates.json"]
+  C --> E["demo_data/kline_btcusdt.json"]
+  D --> F["Read-only research view"]
   E --> F
 ```
 

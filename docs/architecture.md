@@ -8,14 +8,14 @@ publishing private caches, account context, or production services.
 
 ```mermaid
 flowchart TD
-  A[Browser] --> B[Static frontend shell]
-  B --> C[/api/candidates]
-  B --> D[/api/kline/:symbol]
-  C --> E[demo_data/candidates.json]
-  D --> F[demo_data/kline_btcusdt.json]
-  E --> G[Candidate table]
-  F --> H[Overlay metadata]
-  G --> I[Read-only research page]
+  A["Browser"] --> B["Static frontend shell"]
+  B --> C["GET /api/candidates"]
+  B --> D["GET /api/kline/:symbol"]
+  C --> E["demo_data/candidates.json"]
+  D --> F["demo_data/kline_btcusdt.json"]
+  E --> G["Candidate table"]
+  F --> H["Overlay metadata"]
+  G --> I["Read-only research page"]
   H --> I
 ```
 
