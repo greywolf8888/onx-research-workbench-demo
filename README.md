@@ -115,7 +115,7 @@ I intentionally reduced the workbench before publishing it:
 
 - [Architecture](docs/architecture.md)
 - [API contract](docs/api-contract.md)
-- [Project walkthrough](docs/demo-walkthrough.md)
+- [Project walkthrough](docs/project-walkthrough.md)
 - [Full-stack scope](docs/full-stack-scope.md)
 - [Case study](docs/case-study.md)
 - [Sanitization policy](docs/sanitization-policy.md)

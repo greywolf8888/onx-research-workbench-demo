@@ -92,7 +92,7 @@ python -m unittest discover -s tests
 
 - [架构说明](docs/architecture.md)
 - [API 合约](docs/api-contract.md)
-- [项目 walkthrough](docs/demo-walkthrough.md)
+- [项目 walkthrough](docs/project-walkthrough.md)
 - [全栈能力映射](docs/full-stack-scope.md)
 - [案例复盘](docs/case-study.md)
 - [脱敏策略](docs/sanitization-policy.md)
