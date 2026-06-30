@@ -1,10 +1,47 @@
 # Changelog
 
+## v0.1.1-demo
+
+### Added
+
+- First-person full-stack portfolio README rewrite.
+- Architecture, demo walkthrough, full-stack scope, case study, and sanitization policy.
+- GitHub presentation checklist.
+- 1280x640 social preview PNG and SVG assets.
+- `.gitattributes` for stable text and binary handling.
+
+### Changed
+
+- Expanded release notes and read-only public boundary language.
+- Updated generated contract notes toward first-person wording.
+- Tightened security documentation.
+
 ## v0.1.0-demo
 
-This public demo uses a curated, deduplicated history. It does not expose
-private production commits, runtime logs, or internal assets.
+### Added
+
+- Public first-person README for portfolio review.
+- Static read-only frontend shell.
+- Minimal Python JSON service.
+- Synthetic candidate and K-line fixtures.
+- API contract notes and full-stack scope documentation.
+- Case study, walkthrough, release notes, and sanitization policy.
+- Social preview asset for repository presentation.
+- Unit tests and GitHub Actions workflow.
+
+### Changed
+
+- Curated and deduplicated the public demo history instead of publishing private
+  runtime commits.
+- Rewrote project positioning around full-stack productization and read-only
+  safety boundaries.
+
+### Security
+
+- Excluded credentials, account data, private caches, real trading logs,
+  production frontend screens, and mutation routes.
 
 ## 中文摘要
 
-本公开演示仓库使用整理后的提交历史，不暴露私有生产提交、运行日志或内部资产。
+本版本是公开脱敏的工作台演示基线。我保留前端壳、最小 API、合成样本、测试和文档；
+移除账户、密钥、私有缓存、真实日志、生产页面和所有写入动作。

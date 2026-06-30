@@ -2,7 +2,7 @@
 
 Date: 2026-03-28
 
-The public demo keeps this contract as a read-only fixture. Mutating routes,
+I keep this public demo contract as a read-only fixture. I intentionally leave mutating routes,
 account data, and private cache locations are intentionally out of scope.
 
 ## 中文摘要

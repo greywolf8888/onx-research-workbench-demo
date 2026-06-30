@@ -1,12 +1,48 @@
 # Release Notes
 
+## v0.1.1-demo
+
+I published this patch release to turn the workbench demo from a simple public
+export into a stronger full-stack portfolio artifact for the private `codex`
+branch.
+
+### Highlights
+
+- Rewrote the README in my first-person project voice.
+- Added architecture, walkthrough, full-stack scope, case study, and sanitization docs.
+- Added a GitHub presentation checklist covering README, topics, release, security, CI, and social preview.
+- Added 1280x640 PNG/SVG social preview assets for repository presentation.
+- Tightened read-only security documentation and API boundary language.
+- Normalized generated contract notes toward first-person wording.
+
+### 中文摘要
+
+`v0.1.1-demo` 是展示层增强版本。我把 README、架构、案例复盘、脱敏策略、
+GitHub 展示清单、社交预览素材和只读安全边界补到更适合作品集展示的状态。
+
 ## v0.1.0-demo
 
-- Published a sanitized read-only workbench shell.
-- Added synthetic candidate and K-line overlay fixtures.
-- Added minimal local JSON service and static frontend.
-- Added English and Chinese project introductions.
+I published this release as the public, sanitized demo for the private visual
+research workbench behind my `codex` branch.
 
-## 中文摘要
+### Highlights
 
-`v0.1.0-demo` 是公开脱敏的只读工作台演示版本。
+- Added a dependency-light read-only frontend shell.
+- Added a minimal Python JSON service for local review.
+- Added synthetic candidate and K-line API fixtures.
+- Added explicit API contract documentation.
+- Added security and sanitization documentation for public review.
+- Added English and Chinese README files written from my first-person project view.
+- Added tests and CI for the public data contract.
+
+### Public Boundary
+
+I did not include credentials, private cache paths, account
+snapshots, real order history, production frontend views, or any route that can
+mutate account state.
+
+### 中文摘要
+
+`v0.1.0-demo` 是我为私有可视化研究台准备的公开脱敏版本。它包含只读前端壳、
+最小 Python JSON 服务、合成 API 样本、合约文档、脱敏说明、测试和 CI；
+不包含密钥、账户、私有缓存、真实订单、生产页面或任何写入路径。

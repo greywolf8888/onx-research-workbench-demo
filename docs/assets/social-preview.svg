@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
+  <title id="title">ONX Research Workbench Demo social preview</title>
+  <desc id="desc">A portfolio preview for a sanitized read-only full-stack research workbench demo.</desc>
+  <rect width="1280" height="640" fill="#f7f8fb"/>
+  <rect x="72" y="72" width="1136" height="496" rx="18" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="116" y="154" fill="#111827" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="700">ONX Research Workbench</text>
+  <text x="116" y="204" fill="#2563eb" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="600">Sanitized Full-Stack Demo</text>
+  <text x="116" y="262" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="24">I built this public slice to show a read-only research UI, explicit API</text>
+  <text x="116" y="298" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="24">contracts, synthetic fixtures, safety boundaries, tests, and documentation.</text>
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="22">
+    <rect x="116" y="366" width="230" height="62" rx="10" fill="#0f766e"/>
+    <text x="146" y="406" fill="#ecfeff">Frontend shell</text>
+    <rect x="370" y="366" width="230" height="62" rx="10" fill="#2563eb"/>
+    <text x="400" y="406" fill="#eff6ff">Python API</text>
+    <rect x="624" y="366" width="230" height="62" rx="10" fill="#7c3aed"/>
+    <text x="654" y="406" fill="#f5f3ff">JSON contracts</text>
+    <rect x="878" y="366" width="230" height="62" rx="10" fill="#ca8a04"/>
+    <text x="908" y="406" fill="#fefce8">Read-only risk</text>
+  </g>
+  <text x="116" y="506" fill="#64748b" font-family="Segoe UI, Arial, sans-serif" font-size="20">github.com/greywolf8888/onx-research-workbench-demo</text>
+</svg>
